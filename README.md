@@ -1,7 +1,7 @@
 ### Hi there (:
 
 
-- 🔭 I’m currently working on Mobile
+- 🔭 I’m currently working with Mobile
 - 🌱 I’m currently learning React Native
 - 😄 My Pronouns: She/Her
 - 📈 My GitHub stats
