@@ -1,11 +1,6 @@
 ### Hi there (:
 
 
-- 🔭 I’m currently looking for an opportunity
-- 🌱 I’m currently learning React Native, ReactJs and Typescript
-- 😄 My Pronouns: She/Her
-
-
 
 <div align="center">
   <a href="http://github.com/missetubal">
